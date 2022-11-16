@@ -1,4 +1,4 @@
-# demo-lalyer
+# vue-lalyer
 
 ## Project setup
 ```
