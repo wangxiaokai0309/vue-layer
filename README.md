@@ -1,4 +1,4 @@
-# vue-lalyer
+# vue-layer
 
 ## Project setup
 ```
